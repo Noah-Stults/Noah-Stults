@@ -1,4 +1,4 @@
-## Hi 👋, I'm a Software and DevOps Engineer working in Lahore, Punjab, Pakistan
+## Hi 👋, I'm a Software and DevOps Engineer working in Illinois, USA.
 
 <p align="left">
 <!--   <a href="https://leetcode.com/alihassan4198/">
