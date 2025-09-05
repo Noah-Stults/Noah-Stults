@@ -1,11 +1,14 @@
-## Hi 👋, I'm a Full-stack AI Developer & DevOps/Cloud Engineer based in Illinois, USA.
+<h1 align="center">Hi 👋, I'm a Full-stack AI Developer & DevOps/Cloud Engineer</h1>
+<h3 align="center">🚀 Building Scalable, Intelligent, and Cloud-Native Systems | Based in Illinois, USA</h3>
 
-<p align="left">
+---
+
+<p align="center">
   <a href="https://www.hackerrank.com/alihassan4198">
     <img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="Hackerrank rating" />
   </a>
   <a href="https://stackoverflow.com/users/20840764/ali-hassan">
-    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
+    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=Reputation&logo=stackoverflow">
   </a>
   <a href="https://github.com/alihassan4198-tech?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/alihassan4198-tech?color=green&logo=github">
@@ -15,33 +18,66 @@
   </a>
 </p>
 
-#### Now
-- 🔥 Focused on **AI-driven Full-stack development** and **DevOps/Cloud engineering**  
-- 🧠 Exploring **MERN, Python, LLMs, and OpenAI ecosystem**  
-- 📅 Looking to contribute to **AI, Cloud, and Full-stack open-source projects**
+---
 
-#### Bio
-- 🏢 Currently working at **Upwork**  
-- ⚙️ I use daily: `.js`, `.ts`, `.py`, `.go`, `.sh`  
-- 🌱 Expanding expertise in **LLMs, AI integration, and scalable cloud-native systems**  
-- 💬 Ask me about **MERN, Python, React, React Native, LLMs, OpenAI, Docker, Kubernetes, Helm, AWS (Lambda, CloudFront, EKS, EC2, ECS, S3, etc.)**  
-- 📝 Check out my [Resume](Resume.pdf)  
+### 🔥 Now
+- 💡 Driving innovation in **AI-powered Full-stack development** and **Cloud/DevOps engineering**
+- 🧠 Exploring cutting-edge **MERN stack, Python automation, LLMs, and OpenAI ecosystems**
+- 🤝 Passionate about **mentoring engineers** and **contributing to large-scale open-source AI projects**
+- 📅 Always looking for exciting collaborations in **AI, Cloud, and Full-stack development**
 
-#### Development Stuffs:
-<b>⚡ Github Stats</b>  
-<p float="left">
+---
+
+### 👨‍💻 Bio (Senior-level Snapshot)
+- 🏢 Currently working as a **Consultant Engineer on Upwork**, delivering scalable AI-driven and cloud-native solutions for global clients
+- ⚙️ Daily driving code in: `.js`, `.ts`, `.py`, `.go`, `.sh`, with deep expertise in **system design & optimization**
+- 🌱 Continuously learning and applying advanced concepts in **LLMs, MLOps, Generative AI, and multi-cloud architectures**
+- 💬 You can ping me about:
+  - Full-stack development: **MERN, Python, React, React Native**
+  - AI/ML engineering: **LLMs, OpenAI, prompt engineering, AI integrations**
+  - DevOps & Cloud: **Docker, Kubernetes, Helm, Terraform, AWS (Lambda, CloudFront, EKS, EC2, ECS, S3, and beyond...)**
+  - Scaling systems: **Distributed systems, microservices, event-driven architectures**
+- 🎯 Proven expertise in **designing secure, high-performance applications** used by thousands of users
+- 🏆 Recognized for:
+  - Leading **end-to-end AI product development**
+  - Building **CI/CD pipelines and DevOps automation**
+  - Designing **cloud-native infrastructures for enterprises**
+  - Integrating **AI into real-world production workloads**
+- 📝 Check out my [Resume](Resume.pdf)
+
+---
+
+### ⚡ Development Stuffs
+<b>📊 Github Stats</b>  
+
+<p float="left" align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alihassan4198-tech&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihassan4198-tech&show_icons=true&hide_border=true&layout=compact&langs_count=15"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alihassan4198-tech&theme=github_dark" />
+</p>
+
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-FF6F00?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+---
+
+### ⏱️ Coding & Work Stats
 ![Languages](https://wakatime.com/share/@a5c8f5bc-dadf-4b90-9d88-8f48a845cbd7/5848908e-02c6-4525-acff-cc546782de8d.svg)  
 ![Operating-Systems](https://wakatime.com/share/@a5c8f5bc-dadf-4b90-9d88-8f48a845cbd7/4c7b793c-2e67-4377-b7da-a6df08d65f28.svg)  
 
-#### Connect With Me
-<p left="center">
-  <a href="https://www.linkedin.com/in/syed-ali-hassan-jaffery/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-  </a> 
-  <a href="mailto:alihassan4198@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
-  </a>
-</p>
+---
