@@ -29,7 +29,7 @@
 
 ---
 
-### 👨‍💻 Bio (Senior Snapshot – 9+ Years)
+### 👨‍💻 Bio
 - 🏢 Currently working as a **Consultant Engineer on Upwork**, delivering scalable AI-driven and cloud-native solutions for global clients
 - ⚙️ Daily driving code in: `.js`, `.ts`, `.py`, `.go`, `.sh`, with deep expertise in **system design & optimization**
 - 🌱 Continuously learning and applying advanced concepts in **LLMs, MLOps, Generative AI, and multi-cloud architectures**
@@ -62,7 +62,6 @@
 <b>📊 Github Stats</b>  
 
 <p float="left" align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Noah-Stults&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noah-Stults&show_icons=true&hide_border=true&layout=compact&langs_count=15"/>
 </p>
 
