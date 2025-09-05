@@ -16,6 +16,7 @@
   <a href="https://github.com/alihassan4198-tech/">
     <img src="https://komarev.com/ghpvc/?username=alihassan4198-tech" alt="visitors" />
   </a>
+  <img src="https://img.shields.io/badge/Experience-9%2B_Years-blue?style=for-the-badge&logo=github" alt="Experience Badge"/>
 </p>
 
 ---
@@ -28,14 +29,14 @@
 
 ---
 
-### 👨‍💻 Bio (Senior-level Snapshot)
+### 👨‍💻 Bio (Senior Snapshot – 9+ Years)
 - 🏢 Currently working as a **Consultant Engineer on Upwork**, delivering scalable AI-driven and cloud-native solutions for global clients
 - ⚙️ Daily driving code in: `.js`, `.ts`, `.py`, `.go`, `.sh`, with deep expertise in **system design & optimization**
 - 🌱 Continuously learning and applying advanced concepts in **LLMs, MLOps, Generative AI, and multi-cloud architectures**
 - 💬 You can ping me about:
   - Full-stack development: **MERN, Python, React, React Native**
   - AI/ML engineering: **LLMs, OpenAI, prompt engineering, AI integrations**
-  - DevOps & Cloud: **Docker, Kubernetes, Helm, Terraform, AWS (Lambda, CloudFront, EKS, EC2, ECS, S3, and beyond...)**
+  - DevOps & Cloud: **Docker, Kubernetes, Helm, Terraform, AWS (Lambda, CloudFront, EKS, EC2, ECS, S3, etc.)**
   - Scaling systems: **Distributed systems, microservices, event-driven architectures**
 - 🎯 Proven expertise in **designing secure, high-performance applications** used by thousands of users
 - 🏆 Recognized for:
@@ -43,6 +44,16 @@
   - Building **CI/CD pipelines and DevOps automation**
   - Designing **cloud-native infrastructures for enterprises**
   - Integrating **AI into real-world production workloads**
+
+---
+
+### 🏆 Career Timeline (2015 → 2025)
+- 🚀 **2015** – Started career as a Junior Software Engineer, focused on JavaScript & backend systems  
+- ⚡ **2017** – Transitioned into **DevOps engineering**, Docker & CI/CD pipelines  
+- 🌐 **2019** – Worked on **cloud-native architectures** with AWS & Kubernetes  
+- 🤖 **2021** – Expanded into **AI & ML engineering**, integrating Python & TensorFlow solutions  
+- 🧠 **2023** – Began building with **LLMs & OpenAI**, applied Generative AI in production projects  
+- 🔥 **2025** – **Full-stack AI Developer & Cloud Engineer**, delivering scalable, intelligent, enterprise-grade systems  
 
 ---
 
@@ -55,7 +66,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Noah-Stults&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alihassan4198-tech&theme=github_dark" />
 </p>
 
 ---
