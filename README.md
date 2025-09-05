@@ -10,13 +10,13 @@
   <a href="https://stackoverflow.com/users/20840764/ali-hassan">
     <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=Reputation&logo=stackoverflow">
   </a>
-  <a href="https://github.com/alihassan4198-tech?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/alihassan4198-tech?color=green&logo=github">
+  <a href="https://github.com/Noah-Stults?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Noah-Stults?color=green&logo=github">
   </a>
-  <a href="https://github.com/alihassan4198-tech/">
-    <img src="https://komarev.com/ghpvc/?username=alihassan4198-tech" alt="visitors" />
+  <a href="https://github.com/Noah-Stults/">
+    <img src="https://komarev.com/ghpvc/?username=Noah-Stults" alt="visitors" />
   </a>
-  <img src="https://img.shields.io/badge/Experience-9%2B_Years-blue?style=for-the-badge&logo=github" alt="Experience Badge"/>
+  <img src="https://img.shields.io/badge/Professional_Experience-9%2B_Years-blue?style=for-the-badge&logo=github" alt="9+ Years of Experience"/>
 </p>
 
 ---
@@ -61,12 +61,13 @@
 <b>📊 Github Stats</b>  
 
 <p float="left" align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alihassan4198-tech&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihassan4198-tech&show_icons=true&hide_border=true&layout=compact&langs_count=15"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Noah-Stults&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noah-Stults&show_icons=true&hide_border=true&layout=compact&langs_count=15"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alihassan4198-tech&theme=github_dark" />
+  <!-- Instead of Noah-Stults card, we display a 9+ Years badge -->
+  <img src="https://img.shields.io/badge/Experience-9%2B_Years-darkgreen?style=for-the-badge&logo=github" alt="9+ Years Experience Badge"/>
 </p>
 
 ---
