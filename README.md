@@ -48,12 +48,13 @@
 ---
 
 ### 🏆 Career Timeline (2015 → 2025)
-- 🚀 **2015** – Started career as a Junior Software Engineer, focused on JavaScript & backend systems  
+- 🔥 **2025** – **Full-stack AI Developer & Cloud Engineer**, delivering scalable, intelligent, enterprise-grade systems
+- 🧠 **2023** – Began building with **LLMs & OpenAI**, applied Generative AI in production projects
+- 🤖 **2021** – Expanded into **AI & ML engineering**, integrating Python & TensorFlow solutions
+- 🌐 **2019** – Worked on **cloud-native architectures** with AWS & Kubernetes
 - ⚡ **2017** – Transitioned into **DevOps engineering**, Docker & CI/CD pipelines  
-- 🌐 **2019** – Worked on **cloud-native architectures** with AWS & Kubernetes  
-- 🤖 **2021** – Expanded into **AI & ML engineering**, integrating Python & TensorFlow solutions  
-- 🧠 **2023** – Began building with **LLMs & OpenAI**, applied Generative AI in production projects  
-- 🔥 **2025** – **Full-stack AI Developer & Cloud Engineer**, delivering scalable, intelligent, enterprise-grade systems  
+- 🚀 **2015** – Started career as a Junior Software Engineer, focused on JavaScript & backend systems  
+
 
 ---
 
