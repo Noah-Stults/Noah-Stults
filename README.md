@@ -47,13 +47,17 @@
 
 ---
 
-### 🏆 Career Timeline (2015 → 2025)
-- 🔥 **2025** – **Full-stack AI Developer & Cloud Engineer**, delivering scalable, intelligent, enterprise-grade systems
-- 🧠 **2023** – Began building with **LLMs & OpenAI**, applied Generative AI in production projects
-- 🤖 **2021** – Expanded into **AI & ML engineering**, integrating Python & TensorFlow solutions
-- 🌐 **2019** – Worked on **cloud-native architectures** with AWS & Kubernetes
-- ⚡ **2017** – Transitioned into **DevOps engineering**, Docker & CI/CD pipelines  
-- 🚀 **2015** – Started career as a Junior Software Engineer, focused on JavaScript & backend systems  
+### 🏆 Career Timeline (2017 → 2025)
+- 🔥 **2025** – **Full-stack AI Developer & Cloud Engineer**, delivering scalable, intelligent, enterprise-grade systems  
+- 🧠 **2024** – Designed and deployed **end-to-end AI-driven applications**, integrating LLMs with cloud-native microservices for enterprise clients  
+- 🧠 **2023** – Began building with **LLMs & OpenAI**, applied Generative AI in production projects  
+- 🤖 **2022** – Focused on **MERN & Python full-stack solutions**, modernized legacy systems and introduced scalable APIs  
+- 🤖 **2021** – Expanded into **AI & ML engineering**, integrating Python & TensorFlow solutions  
+- 🌐 **2020** – Delivered **cloud migrations & DevOps automation** (AWS, Kubernetes, CI/CD), improving system reliability and reducing deployment times  
+- 🌐 **2019** – Worked on **cloud-native architectures** with AWS & Kubernetes  
+- ⚡ **2018** – Transitioned into **DevOps engineering**, Docker & CI/CD pipelines  
+- 🚀 **2017** – Started career as a Junior Software Engineer, focused on JavaScript & backend systems  
+
 
 
 ---
@@ -74,16 +78,35 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/MERN-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <!-- Full-stack -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+  <!-- AI / LLMs -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-2C2C2C?style=for-the-badge&logo=graph&logoColor=white" />
+
+  <!-- DevOps / Cloud -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/CI/CD-FF6F00?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
+
 
 ---
 
