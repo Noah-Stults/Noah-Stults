@@ -16,7 +16,7 @@
   <a href="https://github.com/Noah-Stults/">
     <img src="https://komarev.com/ghpvc/?username=Noah-Stults" alt="visitors" />
   </a>
-  <img src="https://img.shields.io/badge/Professional_Experience-9%2B_Years-blue?style=for-the-badge&logo=github" alt="9+ Years of Experience"/>
+  <img src="https://img.shields.io/badge/Professional_Experience-9%2B_Years-blue?style=for-the-badge&logo=github" alt="8+ Years of Experience"/>
 </p>
 
 ---
